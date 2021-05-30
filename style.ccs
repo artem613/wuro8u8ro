@@ -1,0 +1,16 @@
+body {
+    font-family: sans-serif;
+}
+header {
+  font-size:25px;
+  height: 70px;
+  width: 100%;
+  background-color: yellowgreen;
+}
+
+.link-header {
+    text-decoration: none;
+    text-align: center;
+}
+h1{
+   text-align: center;
